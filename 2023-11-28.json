@@ -1,0 +1,922 @@
+[
+    {
+        "kungorelseid": "K731389/23",
+        "uppgiftslamnare": "Bolagsverket",
+        "kungorelsetyp": "Aktiebolagsregistret",
+        "personOrgnummer": "",
+        "namn": "Lilla Pyret aktiebolag",
+        "publiceringsdatum": "2023-11-28"
+    },
+    {
+        "kungorelseid": "K731393/23",
+        "uppgiftslamnare": "Bolagsverket",
+        "kungorelsetyp": "Aktiebolagsregistret",
+        "personOrgnummer": "",
+        "namn": "Salong EXAKT AB",
+        "publiceringsdatum": "2023-11-28"
+    },
+    {
+        "kungorelseid": "K731396/23",
+        "uppgiftslamnare": "Bolagsverket",
+        "kungorelsetyp": "Aktiebolagsregistret",
+        "personOrgnummer": "",
+        "namn": "JRS Jerrys Reparation & Service AB",
+        "publiceringsdatum": "2023-11-28"
+    },
+    {
+        "kungorelseid": "K731398/23",
+        "uppgiftslamnare": "Bolagsverket",
+        "kungorelsetyp": "Aktiebolagsregistret",
+        "personOrgnummer": "",
+        "namn": "Feel Green Flytt & Bygg AB",
+        "publiceringsdatum": "2023-11-28"
+    },
+    {
+        "kungorelseid": "K730379/23",
+        "uppgiftslamnare": "Bolagsverket",
+        "kungorelsetyp": "Aktiebolagsregistret",
+        "personOrgnummer": "",
+        "namn": "NiSports Scandinavia AB",
+        "publiceringsdatum": "2023-11-28"
+    },
+    {
+        "kungorelseid": "K731202/23",
+        "uppgiftslamnare": "Bolagsverket",
+        "kungorelsetyp": "Aktiebolagsregistret",
+        "personOrgnummer": "",
+        "namn": "Starta R\u00e4tt 268 AB",
+        "publiceringsdatum": "2023-11-28"
+    },
+    {
+        "kungorelseid": "K731205/23",
+        "uppgiftslamnare": "Bolagsverket",
+        "kungorelsetyp": "Aktiebolagsregistret",
+        "personOrgnummer": "",
+        "namn": "Starta R\u00e4tt 269 AB",
+        "publiceringsdatum": "2023-11-28"
+    },
+    {
+        "kungorelseid": "K731400/23",
+        "uppgiftslamnare": "Bolagsverket",
+        "kungorelsetyp": "Aktiebolagsregistret",
+        "personOrgnummer": "",
+        "namn": "Godislagret \u00c4lv\u00e4ngen AB",
+        "publiceringsdatum": "2023-11-28"
+    },
+    {
+        "kungorelseid": "K731403/23",
+        "uppgiftslamnare": "Bolagsverket",
+        "kungorelsetyp": "Aktiebolagsregistret",
+        "personOrgnummer": "",
+        "namn": "F\u00f6ra Br\u00e4nneri AB",
+        "publiceringsdatum": "2023-11-28"
+    },
+    {
+        "kungorelseid": "K731214/23",
+        "uppgiftslamnare": "Bolagsverket",
+        "kungorelsetyp": "Aktiebolagsregistret",
+        "personOrgnummer": "",
+        "namn": "Jali Collins F\u00f6rvaltning AB",
+        "publiceringsdatum": "2023-11-28"
+    },
+    {
+        "kungorelseid": "K731406/23",
+        "uppgiftslamnare": "Bolagsverket",
+        "kungorelsetyp": "Aktiebolagsregistret",
+        "personOrgnummer": "",
+        "namn": "JoNo Engineering AB",
+        "publiceringsdatum": "2023-11-28"
+    },
+    {
+        "kungorelseid": "K731413/23",
+        "uppgiftslamnare": "Bolagsverket",
+        "kungorelsetyp": "Aktiebolagsregistret",
+        "personOrgnummer": "",
+        "namn": "Starta R\u00e4tt 270 AB",
+        "publiceringsdatum": "2023-11-28"
+    },
+    {
+        "kungorelseid": "K731244/23",
+        "uppgiftslamnare": "Bolagsverket",
+        "kungorelsetyp": "Aktiebolagsregistret",
+        "personOrgnummer": "",
+        "namn": "Verkst\u00e4ll Konsult AB",
+        "publiceringsdatum": "2023-11-28"
+    },
+    {
+        "kungorelseid": "K731418/23",
+        "uppgiftslamnare": "Bolagsverket",
+        "kungorelsetyp": "Aktiebolagsregistret",
+        "personOrgnummer": "",
+        "namn": "Starta R\u00e4tt 272 AB",
+        "publiceringsdatum": "2023-11-28"
+    },
+    {
+        "kungorelseid": "K731420/23",
+        "uppgiftslamnare": "Bolagsverket",
+        "kungorelsetyp": "Aktiebolagsregistret",
+        "personOrgnummer": "",
+        "namn": "Starta R\u00e4tt 273 AB",
+        "publiceringsdatum": "2023-11-28"
+    },
+    {
+        "kungorelseid": "K730873/23",
+        "uppgiftslamnare": "Bolagsverket",
+        "kungorelsetyp": "Aktiebolagsregistret",
+        "personOrgnummer": "",
+        "namn": "MDDS Aktiebolag",
+        "publiceringsdatum": "2023-11-28"
+    },
+    {
+        "kungorelseid": "K731252/23",
+        "uppgiftslamnare": "Bolagsverket",
+        "kungorelsetyp": "Aktiebolagsregistret",
+        "personOrgnummer": "",
+        "namn": "Hillerius Allservice AB",
+        "publiceringsdatum": "2023-11-28"
+    },
+    {
+        "kungorelseid": "K731256/23",
+        "uppgiftslamnare": "Bolagsverket",
+        "kungorelsetyp": "Aktiebolagsregistret",
+        "personOrgnummer": "",
+        "namn": "Er V\u00e5rdkonsult i M\u00e4lardalen AB",
+        "publiceringsdatum": "2023-11-28"
+    },
+    {
+        "kungorelseid": "K732210/23",
+        "uppgiftslamnare": "Bolagsverket",
+        "kungorelsetyp": "Aktiebolagsregistret",
+        "personOrgnummer": "",
+        "namn": "Kommstart 3729 AB",
+        "publiceringsdatum": "2023-11-28"
+    },
+    {
+        "kungorelseid": "K730498/23",
+        "uppgiftslamnare": "Bolagsverket",
+        "kungorelsetyp": "Aktiebolagsregistret",
+        "personOrgnummer": "",
+        "namn": "LunarStahr AB",
+        "publiceringsdatum": "2023-11-28"
+    },
+    {
+        "kungorelseid": "K730904/23",
+        "uppgiftslamnare": "Bolagsverket",
+        "kungorelsetyp": "Aktiebolagsregistret",
+        "personOrgnummer": "",
+        "namn": "Ekotekten AB",
+        "publiceringsdatum": "2023-11-28"
+    },
+    {
+        "kungorelseid": "K731261/23",
+        "uppgiftslamnare": "Bolagsverket",
+        "kungorelsetyp": "Aktiebolagsregistret",
+        "personOrgnummer": "",
+        "namn": "North International Holding AB",
+        "publiceringsdatum": "2023-11-28"
+    },
+    {
+        "kungorelseid": "K732213/23",
+        "uppgiftslamnare": "Bolagsverket",
+        "kungorelsetyp": "Aktiebolagsregistret",
+        "personOrgnummer": "",
+        "namn": "Kommstart 3727 AB",
+        "publiceringsdatum": "2023-11-28"
+    },
+    {
+        "kungorelseid": "K730522/23",
+        "uppgiftslamnare": "Bolagsverket",
+        "kungorelsetyp": "Aktiebolagsregistret",
+        "personOrgnummer": "",
+        "namn": "LabLife Nordic Diagnostics AB",
+        "publiceringsdatum": "2023-11-28"
+    },
+    {
+        "kungorelseid": "K730530/23",
+        "uppgiftslamnare": "Bolagsverket",
+        "kungorelsetyp": "Aktiebolagsregistret",
+        "personOrgnummer": "",
+        "namn": "HFS Carservice AB",
+        "publiceringsdatum": "2023-11-28"
+    },
+    {
+        "kungorelseid": "K731303/23",
+        "uppgiftslamnare": "Bolagsverket",
+        "kungorelsetyp": "Aktiebolagsregistret",
+        "personOrgnummer": "",
+        "namn": "Svenska Begravningsbutiken AB",
+        "publiceringsdatum": "2023-11-28"
+    },
+    {
+        "kungorelseid": "K731311/23",
+        "uppgiftslamnare": "Bolagsverket",
+        "kungorelsetyp": "Aktiebolagsregistret",
+        "personOrgnummer": "",
+        "namn": "Frisktand67 AB",
+        "publiceringsdatum": "2023-11-28"
+    },
+    {
+        "kungorelseid": "K730544/23",
+        "uppgiftslamnare": "Bolagsverket",
+        "kungorelsetyp": "Aktiebolagsregistret",
+        "personOrgnummer": "",
+        "namn": "EM Span AB",
+        "publiceringsdatum": "2023-11-28"
+    },
+    {
+        "kungorelseid": "K730548/23",
+        "uppgiftslamnare": "Bolagsverket",
+        "kungorelsetyp": "Aktiebolagsregistret",
+        "personOrgnummer": "",
+        "namn": "Oense AB",
+        "publiceringsdatum": "2023-11-28"
+    },
+    {
+        "kungorelseid": "K731320/23",
+        "uppgiftslamnare": "Bolagsverket",
+        "kungorelsetyp": "Aktiebolagsregistret",
+        "personOrgnummer": "",
+        "namn": "MH i \u00c5m\u00e5l AB",
+        "publiceringsdatum": "2023-11-28"
+    },
+    {
+        "kungorelseid": "K731322/23",
+        "uppgiftslamnare": "Bolagsverket",
+        "kungorelsetyp": "Aktiebolagsregistret",
+        "personOrgnummer": "",
+        "namn": "Talent Yourself AB",
+        "publiceringsdatum": "2023-11-28"
+    },
+    {
+        "kungorelseid": "K731877/23",
+        "uppgiftslamnare": "Bolagsverket",
+        "kungorelsetyp": "Aktiebolagsregistret",
+        "personOrgnummer": "",
+        "namn": "Goldcup 34300 AB",
+        "publiceringsdatum": "2023-11-28"
+    },
+    {
+        "kungorelseid": "K731881/23",
+        "uppgiftslamnare": "Bolagsverket",
+        "kungorelsetyp": "Aktiebolagsregistret",
+        "personOrgnummer": "",
+        "namn": "Goldcup 34200 AB",
+        "publiceringsdatum": "2023-11-28"
+    },
+    {
+        "kungorelseid": "K731884/23",
+        "uppgiftslamnare": "Bolagsverket",
+        "kungorelsetyp": "Aktiebolagsregistret",
+        "personOrgnummer": "",
+        "namn": "Goldcup 34202 AB",
+        "publiceringsdatum": "2023-11-28"
+    },
+    {
+        "kungorelseid": "K731886/23",
+        "uppgiftslamnare": "Bolagsverket",
+        "kungorelsetyp": "Aktiebolagsregistret",
+        "personOrgnummer": "",
+        "namn": "Goldcup 34204 AB",
+        "publiceringsdatum": "2023-11-28"
+    },
+    {
+        "kungorelseid": "K731888/23",
+        "uppgiftslamnare": "Bolagsverket",
+        "kungorelsetyp": "Aktiebolagsregistret",
+        "personOrgnummer": "",
+        "namn": "Goldcup 34206 AB",
+        "publiceringsdatum": "2023-11-28"
+    },
+    {
+        "kungorelseid": "K731890/23",
+        "uppgiftslamnare": "Bolagsverket",
+        "kungorelsetyp": "Aktiebolagsregistret",
+        "personOrgnummer": "",
+        "namn": "Goldcup 34208 AB",
+        "publiceringsdatum": "2023-11-28"
+    },
+    {
+        "kungorelseid": "K731892/23",
+        "uppgiftslamnare": "Bolagsverket",
+        "kungorelsetyp": "Aktiebolagsregistret",
+        "personOrgnummer": "",
+        "namn": "Goldcup 34210 AB",
+        "publiceringsdatum": "2023-11-28"
+    },
+    {
+        "kungorelseid": "K731895/23",
+        "uppgiftslamnare": "Bolagsverket",
+        "kungorelsetyp": "Aktiebolagsregistret",
+        "personOrgnummer": "",
+        "namn": "Goldcup 34212 AB",
+        "publiceringsdatum": "2023-11-28"
+    },
+    {
+        "kungorelseid": "K731898/23",
+        "uppgiftslamnare": "Bolagsverket",
+        "kungorelsetyp": "Aktiebolagsregistret",
+        "personOrgnummer": "",
+        "namn": "Goldcup 34214 AB",
+        "publiceringsdatum": "2023-11-28"
+    },
+    {
+        "kungorelseid": "K731900/23",
+        "uppgiftslamnare": "Bolagsverket",
+        "kungorelsetyp": "Aktiebolagsregistret",
+        "personOrgnummer": "",
+        "namn": "Goldcup 34216 AB",
+        "publiceringsdatum": "2023-11-28"
+    },
+    {
+        "kungorelseid": "K731902/23",
+        "uppgiftslamnare": "Bolagsverket",
+        "kungorelsetyp": "Aktiebolagsregistret",
+        "personOrgnummer": "",
+        "namn": "Goldcup 34218 AB",
+        "publiceringsdatum": "2023-11-28"
+    },
+    {
+        "kungorelseid": "K731904/23",
+        "uppgiftslamnare": "Bolagsverket",
+        "kungorelsetyp": "Aktiebolagsregistret",
+        "personOrgnummer": "",
+        "namn": "Goldcup 34220 AB",
+        "publiceringsdatum": "2023-11-28"
+    },
+    {
+        "kungorelseid": "K731907/23",
+        "uppgiftslamnare": "Bolagsverket",
+        "kungorelsetyp": "Aktiebolagsregistret",
+        "personOrgnummer": "",
+        "namn": "Goldcup 34222 AB",
+        "publiceringsdatum": "2023-11-28"
+    },
+    {
+        "kungorelseid": "K731331/23",
+        "uppgiftslamnare": "Bolagsverket",
+        "kungorelsetyp": "Aktiebolagsregistret",
+        "personOrgnummer": "",
+        "namn": "L. \u00d6stling Sigfridsdotter AB",
+        "publiceringsdatum": "2023-11-28"
+    },
+    {
+        "kungorelseid": "K731930/23",
+        "uppgiftslamnare": "Bolagsverket",
+        "kungorelsetyp": "Aktiebolagsregistret",
+        "personOrgnummer": "",
+        "namn": "Calico nr 11473 Aktiebolag",
+        "publiceringsdatum": "2023-11-28"
+    },
+    {
+        "kungorelseid": "K731013/23",
+        "uppgiftslamnare": "Bolagsverket",
+        "kungorelsetyp": "Aktiebolagsregistret",
+        "personOrgnummer": "",
+        "namn": "EPB Holding AB",
+        "publiceringsdatum": "2023-11-28"
+    },
+    {
+        "kungorelseid": "K731338/23",
+        "uppgiftslamnare": "Bolagsverket",
+        "kungorelsetyp": "Aktiebolagsregistret",
+        "personOrgnummer": "",
+        "namn": "Lafich Consulting AB",
+        "publiceringsdatum": "2023-11-28"
+    },
+    {
+        "kungorelseid": "K731341/23",
+        "uppgiftslamnare": "Bolagsverket",
+        "kungorelsetyp": "Aktiebolagsregistret",
+        "personOrgnummer": "",
+        "namn": "GRG Revision AB",
+        "publiceringsdatum": "2023-11-28"
+    },
+    {
+        "kungorelseid": "K731933/23",
+        "uppgiftslamnare": "Bolagsverket",
+        "kungorelsetyp": "Aktiebolagsregistret",
+        "personOrgnummer": "",
+        "namn": "Calico nr 11475 Aktiebolag",
+        "publiceringsdatum": "2023-11-28"
+    },
+    {
+        "kungorelseid": "K731935/23",
+        "uppgiftslamnare": "Bolagsverket",
+        "kungorelsetyp": "Aktiebolagsregistret",
+        "personOrgnummer": "",
+        "namn": "Calico nr 11477 Aktiebolag",
+        "publiceringsdatum": "2023-11-28"
+    },
+    {
+        "kungorelseid": "K731352/23",
+        "uppgiftslamnare": "Bolagsverket",
+        "kungorelsetyp": "Aktiebolagsregistret",
+        "personOrgnummer": "",
+        "namn": "Fyrskenet AB",
+        "publiceringsdatum": "2023-11-28"
+    },
+    {
+        "kungorelseid": "K731357/23",
+        "uppgiftslamnare": "Bolagsverket",
+        "kungorelsetyp": "Aktiebolagsregistret",
+        "personOrgnummer": "",
+        "namn": "Snapp Holdning AB",
+        "publiceringsdatum": "2023-11-28"
+    },
+    {
+        "kungorelseid": "K731937/23",
+        "uppgiftslamnare": "Bolagsverket",
+        "kungorelsetyp": "Aktiebolagsregistret",
+        "personOrgnummer": "",
+        "namn": "Calico nr 11479 Aktiebolag",
+        "publiceringsdatum": "2023-11-28"
+    },
+    {
+        "kungorelseid": "K731939/23",
+        "uppgiftslamnare": "Bolagsverket",
+        "kungorelsetyp": "Aktiebolagsregistret",
+        "personOrgnummer": "",
+        "namn": "Calico nr 11471 Aktiebolag",
+        "publiceringsdatum": "2023-11-28"
+    },
+    {
+        "kungorelseid": "K730241/23",
+        "uppgiftslamnare": "Bolagsverket",
+        "kungorelsetyp": "Aktiebolagsregistret",
+        "personOrgnummer": "",
+        "namn": "Sorsa Vehicle Solutions AB",
+        "publiceringsdatum": "2023-11-28"
+    },
+    {
+        "kungorelseid": "K731358/23",
+        "uppgiftslamnare": "Bolagsverket",
+        "kungorelsetyp": "Aktiebolagsregistret",
+        "personOrgnummer": "",
+        "namn": "Jenny Alm\u00e9n Design AB",
+        "publiceringsdatum": "2023-11-28"
+    },
+    {
+        "kungorelseid": "K731374/23",
+        "uppgiftslamnare": "Bolagsverket",
+        "kungorelsetyp": "Aktiebolagsregistret",
+        "personOrgnummer": "",
+        "namn": "Oak Meditation AB",
+        "publiceringsdatum": "2023-11-28"
+    },
+    {
+        "kungorelseid": "K731380/23",
+        "uppgiftslamnare": "Bolagsverket",
+        "kungorelsetyp": "Aktiebolagsregistret",
+        "personOrgnummer": "",
+        "namn": "J Repo AB",
+        "publiceringsdatum": "2023-11-28"
+    },
+    {
+        "kungorelseid": "K731383/23",
+        "uppgiftslamnare": "Bolagsverket",
+        "kungorelsetyp": "Aktiebolagsregistret",
+        "personOrgnummer": "",
+        "namn": "0502M\u00e5leri AB",
+        "publiceringsdatum": "2023-11-28"
+    },
+    {
+        "kungorelseid": "K731385/23",
+        "uppgiftslamnare": "Bolagsverket",
+        "kungorelsetyp": "Aktiebolagsregistret",
+        "personOrgnummer": "",
+        "namn": "Elmaro AB",
+        "publiceringsdatum": "2023-11-28"
+    },
+    {
+        "kungorelseid": "K730392/23",
+        "uppgiftslamnare": "Bolagsverket",
+        "kungorelsetyp": "Aktiebolagsregistret",
+        "personOrgnummer": "",
+        "namn": "Astara Move Sweden AB",
+        "publiceringsdatum": "2023-11-28"
+    },
+    {
+        "kungorelseid": "K730489/23",
+        "uppgiftslamnare": "Bolagsverket",
+        "kungorelsetyp": "Aktiebolagsregistret",
+        "personOrgnummer": "",
+        "namn": "Ivy Medical AB",
+        "publiceringsdatum": "2023-11-28"
+    },
+    {
+        "kungorelseid": "K730509/23",
+        "uppgiftslamnare": "Bolagsverket",
+        "kungorelsetyp": "Aktiebolagsregistret",
+        "personOrgnummer": "",
+        "namn": "Calisota Consulting AB",
+        "publiceringsdatum": "2023-11-28"
+    },
+    {
+        "kungorelseid": "K730550/23",
+        "uppgiftslamnare": "Bolagsverket",
+        "kungorelsetyp": "Aktiebolagsregistret",
+        "personOrgnummer": "",
+        "namn": "AB Leifway",
+        "publiceringsdatum": "2023-11-28"
+    },
+    {
+        "kungorelseid": "K730564/23",
+        "uppgiftslamnare": "Bolagsverket",
+        "kungorelsetyp": "Aktiebolagsregistret",
+        "personOrgnummer": "",
+        "namn": "Caf\u00e9 Tosca AB",
+        "publiceringsdatum": "2023-11-28"
+    },
+    {
+        "kungorelseid": "K731168/23",
+        "uppgiftslamnare": "Bolagsverket",
+        "kungorelsetyp": "Aktiebolagsregistret",
+        "personOrgnummer": "",
+        "namn": "MELT Design Consulting AB",
+        "publiceringsdatum": "2023-11-28"
+    },
+    {
+        "kungorelseid": "K730792/23",
+        "uppgiftslamnare": "Bolagsverket",
+        "kungorelsetyp": "Aktiebolagsregistret",
+        "personOrgnummer": "",
+        "namn": "SivA AB",
+        "publiceringsdatum": "2023-11-28"
+    },
+    {
+        "kungorelseid": "K731194/23",
+        "uppgiftslamnare": "Bolagsverket",
+        "kungorelsetyp": "Aktiebolagsregistret",
+        "personOrgnummer": "",
+        "namn": "VG stork\u00f6k sverige AB",
+        "publiceringsdatum": "2023-11-28"
+    },
+    {
+        "kungorelseid": "K731201/23",
+        "uppgiftslamnare": "Bolagsverket",
+        "kungorelsetyp": "Aktiebolagsregistret",
+        "personOrgnummer": "",
+        "namn": "Starta R\u00e4tt 267 AB",
+        "publiceringsdatum": "2023-11-28"
+    },
+    {
+        "kungorelseid": "K731204/23",
+        "uppgiftslamnare": "Bolagsverket",
+        "kungorelsetyp": "Aktiebolagsregistret",
+        "personOrgnummer": "",
+        "namn": "Starta R\u00e4tt 266 AB",
+        "publiceringsdatum": "2023-11-28"
+    },
+    {
+        "kungorelseid": "K731209/23",
+        "uppgiftslamnare": "Bolagsverket",
+        "kungorelsetyp": "Aktiebolagsregistret",
+        "personOrgnummer": "",
+        "namn": "Lindalen kyl- och v\u00e4rmepumpservice AB",
+        "publiceringsdatum": "2023-11-28"
+    },
+    {
+        "kungorelseid": "K732211/23",
+        "uppgiftslamnare": "Bolagsverket",
+        "kungorelsetyp": "Aktiebolagsregistret",
+        "personOrgnummer": "",
+        "namn": "Kommstart 3728 AB",
+        "publiceringsdatum": "2023-11-28"
+    },
+    {
+        "kungorelseid": "K732214/23",
+        "uppgiftslamnare": "Bolagsverket",
+        "kungorelsetyp": "Aktiebolagsregistret",
+        "personOrgnummer": "",
+        "namn": "Kommstart 3726 AB",
+        "publiceringsdatum": "2023-11-28"
+    },
+    {
+        "kungorelseid": "K731249/23",
+        "uppgiftslamnare": "Bolagsverket",
+        "kungorelsetyp": "Aktiebolagsregistret",
+        "personOrgnummer": "",
+        "namn": "Jerngross Invest AB",
+        "publiceringsdatum": "2023-11-28"
+    },
+    {
+        "kungorelseid": "K730326/23",
+        "uppgiftslamnare": "Bolagsverket",
+        "kungorelsetyp": "Aktiebolagsregistret",
+        "personOrgnummer": "",
+        "namn": "Nymiko Holding AB",
+        "publiceringsdatum": "2023-11-28"
+    },
+    {
+        "kungorelseid": "K731254/23",
+        "uppgiftslamnare": "Bolagsverket",
+        "kungorelsetyp": "Aktiebolagsregistret",
+        "personOrgnummer": "",
+        "namn": "L&L Care AB",
+        "publiceringsdatum": "2023-11-28"
+    },
+    {
+        "kungorelseid": "K731264/23",
+        "uppgiftslamnare": "Bolagsverket",
+        "kungorelsetyp": "Aktiebolagsregistret",
+        "personOrgnummer": "",
+        "namn": "AdMane AB",
+        "publiceringsdatum": "2023-11-28"
+    },
+    {
+        "kungorelseid": "K731267/23",
+        "uppgiftslamnare": "Bolagsverket",
+        "kungorelsetyp": "Aktiebolagsregistret",
+        "personOrgnummer": "",
+        "namn": "RonnyKon AB",
+        "publiceringsdatum": "2023-11-28"
+    },
+    {
+        "kungorelseid": "K731880/23",
+        "uppgiftslamnare": "Bolagsverket",
+        "kungorelsetyp": "Aktiebolagsregistret",
+        "personOrgnummer": "",
+        "namn": "Goldcup 34199 AB",
+        "publiceringsdatum": "2023-11-28"
+    },
+    {
+        "kungorelseid": "K731883/23",
+        "uppgiftslamnare": "Bolagsverket",
+        "kungorelsetyp": "Aktiebolagsregistret",
+        "personOrgnummer": "",
+        "namn": "Goldcup 34201 AB",
+        "publiceringsdatum": "2023-11-28"
+    },
+    {
+        "kungorelseid": "K731885/23",
+        "uppgiftslamnare": "Bolagsverket",
+        "kungorelsetyp": "Aktiebolagsregistret",
+        "personOrgnummer": "",
+        "namn": "Goldcup 34203 AB",
+        "publiceringsdatum": "2023-11-28"
+    },
+    {
+        "kungorelseid": "K731887/23",
+        "uppgiftslamnare": "Bolagsverket",
+        "kungorelsetyp": "Aktiebolagsregistret",
+        "personOrgnummer": "",
+        "namn": "Goldcup 34205 AB",
+        "publiceringsdatum": "2023-11-28"
+    },
+    {
+        "kungorelseid": "K731889/23",
+        "uppgiftslamnare": "Bolagsverket",
+        "kungorelsetyp": "Aktiebolagsregistret",
+        "personOrgnummer": "",
+        "namn": "Goldcup 34207 AB",
+        "publiceringsdatum": "2023-11-28"
+    },
+    {
+        "kungorelseid": "K731891/23",
+        "uppgiftslamnare": "Bolagsverket",
+        "kungorelsetyp": "Aktiebolagsregistret",
+        "personOrgnummer": "",
+        "namn": "Goldcup 34209 AB",
+        "publiceringsdatum": "2023-11-28"
+    },
+    {
+        "kungorelseid": "K731893/23",
+        "uppgiftslamnare": "Bolagsverket",
+        "kungorelsetyp": "Aktiebolagsregistret",
+        "personOrgnummer": "",
+        "namn": "Goldcup 34211 AB",
+        "publiceringsdatum": "2023-11-28"
+    },
+    {
+        "kungorelseid": "K731896/23",
+        "uppgiftslamnare": "Bolagsverket",
+        "kungorelsetyp": "Aktiebolagsregistret",
+        "personOrgnummer": "",
+        "namn": "Goldcup 34213 AB",
+        "publiceringsdatum": "2023-11-28"
+    },
+    {
+        "kungorelseid": "K731899/23",
+        "uppgiftslamnare": "Bolagsverket",
+        "kungorelsetyp": "Aktiebolagsregistret",
+        "personOrgnummer": "",
+        "namn": "Goldcup 34215 AB",
+        "publiceringsdatum": "2023-11-28"
+    },
+    {
+        "kungorelseid": "K731901/23",
+        "uppgiftslamnare": "Bolagsverket",
+        "kungorelsetyp": "Aktiebolagsregistret",
+        "personOrgnummer": "",
+        "namn": "Goldcup 34217 AB",
+        "publiceringsdatum": "2023-11-28"
+    },
+    {
+        "kungorelseid": "K731903/23",
+        "uppgiftslamnare": "Bolagsverket",
+        "kungorelsetyp": "Aktiebolagsregistret",
+        "personOrgnummer": "",
+        "namn": "Goldcup 34219 AB",
+        "publiceringsdatum": "2023-11-28"
+    },
+    {
+        "kungorelseid": "K731905/23",
+        "uppgiftslamnare": "Bolagsverket",
+        "kungorelsetyp": "Aktiebolagsregistret",
+        "personOrgnummer": "",
+        "namn": "Goldcup 34221 AB",
+        "publiceringsdatum": "2023-11-28"
+    },
+    {
+        "kungorelseid": "K731909/23",
+        "uppgiftslamnare": "Bolagsverket",
+        "kungorelsetyp": "Aktiebolagsregistret",
+        "personOrgnummer": "",
+        "namn": "Goldcup 34223 AB",
+        "publiceringsdatum": "2023-11-28"
+    },
+    {
+        "kungorelseid": "K731929/23",
+        "uppgiftslamnare": "Bolagsverket",
+        "kungorelsetyp": "Aktiebolagsregistret",
+        "personOrgnummer": "",
+        "namn": "Calico nr 11472 Aktiebolag",
+        "publiceringsdatum": "2023-11-28"
+    },
+    {
+        "kungorelseid": "K731932/23",
+        "uppgiftslamnare": "Bolagsverket",
+        "kungorelsetyp": "Aktiebolagsregistret",
+        "personOrgnummer": "",
+        "namn": "Calico nr 11474 Aktiebolag",
+        "publiceringsdatum": "2023-11-28"
+    },
+    {
+        "kungorelseid": "K731934/23",
+        "uppgiftslamnare": "Bolagsverket",
+        "kungorelsetyp": "Aktiebolagsregistret",
+        "personOrgnummer": "",
+        "namn": "Calico nr 11476 Aktiebolag",
+        "publiceringsdatum": "2023-11-28"
+    },
+    {
+        "kungorelseid": "K731936/23",
+        "uppgiftslamnare": "Bolagsverket",
+        "kungorelsetyp": "Aktiebolagsregistret",
+        "personOrgnummer": "",
+        "namn": "Calico nr 11478 Aktiebolag",
+        "publiceringsdatum": "2023-11-28"
+    },
+    {
+        "kungorelseid": "K731026/23",
+        "uppgiftslamnare": "Bolagsverket",
+        "kungorelsetyp": "Aktiebolagsregistret",
+        "personOrgnummer": "",
+        "namn": "C.S. Fine Days of IT AB",
+        "publiceringsdatum": "2023-11-28"
+    },
+    {
+        "kungorelseid": "K731940/23",
+        "uppgiftslamnare": "Bolagsverket",
+        "kungorelsetyp": "Aktiebolagsregistret",
+        "personOrgnummer": "",
+        "namn": "Calico nr 11470 Aktiebolag",
+        "publiceringsdatum": "2023-11-28"
+    },
+    {
+        "kungorelseid": "K731376/23",
+        "uppgiftslamnare": "Bolagsverket",
+        "kungorelsetyp": "Aktiebolagsregistret",
+        "personOrgnummer": "",
+        "namn": "T.A.L Interior & Consulting Sweden AB",
+        "publiceringsdatum": "2023-11-28"
+    },
+    {
+        "kungorelseid": "K731382/23",
+        "uppgiftslamnare": "Bolagsverket",
+        "kungorelsetyp": "Aktiebolagsregistret",
+        "personOrgnummer": "",
+        "namn": "Alora avenue AB",
+        "publiceringsdatum": "2023-11-28"
+    },
+    {
+        "kungorelseid": "K731384/23",
+        "uppgiftslamnare": "Bolagsverket",
+        "kungorelsetyp": "Aktiebolagsregistret",
+        "personOrgnummer": "",
+        "namn": "Mellroth Edutainers AB",
+        "publiceringsdatum": "2023-11-28"
+    },
+    {
+        "kungorelseid": "K731387/23",
+        "uppgiftslamnare": "Bolagsverket",
+        "kungorelsetyp": "Aktiebolagsregistret",
+        "personOrgnummer": "",
+        "namn": "MM-Panel AB",
+        "publiceringsdatum": "2023-11-28"
+    },
+    {
+        "kungorelseid": "K731391/23",
+        "uppgiftslamnare": "Bolagsverket",
+        "kungorelsetyp": "Aktiebolagsregistret",
+        "personOrgnummer": "",
+        "namn": "Chansen St\u00f6d och Omsorg AB",
+        "publiceringsdatum": "2023-11-28"
+    },
+    {
+        "kungorelseid": "K731397/23",
+        "uppgiftslamnare": "Bolagsverket",
+        "kungorelsetyp": "Aktiebolagsregistret",
+        "personOrgnummer": "",
+        "namn": "Granit Fastigheter i M\u00f6lnlycke AB",
+        "publiceringsdatum": "2023-11-28"
+    },
+    {
+        "kungorelseid": "K731399/23",
+        "uppgiftslamnare": "Bolagsverket",
+        "kungorelsetyp": "Aktiebolagsregistret",
+        "personOrgnummer": "",
+        "namn": "Tigerrace S\u00e4ker AB",
+        "publiceringsdatum": "2023-11-28"
+    },
+    {
+        "kungorelseid": "K731401/23",
+        "uppgiftslamnare": "Bolagsverket",
+        "kungorelsetyp": "Aktiebolagsregistret",
+        "personOrgnummer": "",
+        "namn": "Stocka Media AB",
+        "publiceringsdatum": "2023-11-28"
+    },
+    {
+        "kungorelseid": "K731404/23",
+        "uppgiftslamnare": "Bolagsverket",
+        "kungorelsetyp": "Aktiebolagsregistret",
+        "personOrgnummer": "",
+        "namn": "Apadana Fris\u00f6r AB",
+        "publiceringsdatum": "2023-11-28"
+    },
+    {
+        "kungorelseid": "K731419/23",
+        "uppgiftslamnare": "Bolagsverket",
+        "kungorelsetyp": "Aktiebolagsregistret",
+        "personOrgnummer": "",
+        "namn": "Starta R\u00e4tt 271 AB",
+        "publiceringsdatum": "2023-11-28"
+    },
+    {
+        "kungorelseid": "K731294/23",
+        "uppgiftslamnare": "Bolagsverket",
+        "kungorelsetyp": "Aktiebolagsregistret",
+        "personOrgnummer": "",
+        "namn": "Fikir Jewelry AB",
+        "publiceringsdatum": "2023-11-28"
+    },
+    {
+        "kungorelseid": "K731330/23",
+        "uppgiftslamnare": "Bolagsverket",
+        "kungorelsetyp": "Aktiebolagsregistret",
+        "personOrgnummer": "",
+        "namn": "SatoriML AB",
+        "publiceringsdatum": "2023-11-28"
+    },
+    {
+        "kungorelseid": "K731335/23",
+        "uppgiftslamnare": "Bolagsverket",
+        "kungorelsetyp": "Aktiebolagsregistret",
+        "personOrgnummer": "",
+        "namn": "Fastighetsbyr\u00e5n i Filipstad AB",
+        "publiceringsdatum": "2023-11-28"
+    },
+    {
+        "kungorelseid": "K731337/23",
+        "uppgiftslamnare": "Bolagsverket",
+        "kungorelsetyp": "Aktiebolagsregistret",
+        "personOrgnummer": "",
+        "namn": "KAB Konsult AB",
+        "publiceringsdatum": "2023-11-28"
+    },
+    {
+        "kungorelseid": "K731343/23",
+        "uppgiftslamnare": "Bolagsverket",
+        "kungorelsetyp": "Aktiebolagsregistret",
+        "personOrgnummer": "",
+        "namn": "Elscooterdelar365 AB",
+        "publiceringsdatum": "2023-11-28"
+    },
+    {
+        "kungorelseid": "K731348/23",
+        "uppgiftslamnare": "Bolagsverket",
+        "kungorelsetyp": "Aktiebolagsregistret",
+        "personOrgnummer": "",
+        "namn": "Shieldmountain AB",
+        "publiceringsdatum": "2023-11-28"
+    },
+    {
+        "kungorelseid": "K731349/23",
+        "uppgiftslamnare": "Bolagsverket",
+        "kungorelsetyp": "Aktiebolagsregistret",
+        "personOrgnummer": "",
+        "namn": "Kriwas AB",
+        "publiceringsdatum": "2023-11-28"
+    }
+]
