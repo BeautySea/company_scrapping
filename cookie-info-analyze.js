@@ -1,0 +1,53 @@
+//successful Last Response Header
+cache-control:no-store, must-revalidate, no-cache, max-age=0
+content-length:0
+content-type:text/html
+set-cookie:TS6aeb2efb027=085cfe028fab20001a0984bfa1b59272302b3c39ba4e631ec85e70e64c6497b21483974f601035cf085ccfd0a411300090bec021889341b48d24efda191b8d17785db30587cbab64186c0d26992ec1c5c2033727968388361b21b158e3c34fd8; Path=/
+strict-transport-security:max-age=31536000
+
+//successful Last TSPD Request Header
+accept:*/*
+accept-encoding:gzip, deflate, br, zstd
+accept-language:en-US,en;q=0.9
+connection:keep-alive
+cookie:_pk_id.1.e7f5=4459834d98728293.1726706485.; cookiefirst-consent=%7B%22necessary%22%3Atrue%2C%22performance%22%3Afalse%2C%22functional%22%3Afalse%2C%22advertising%22%3Afalse%2C%22timestamp%22%3A1726706511%2C%22type%22%3A%22category%22%2C%22version%22%3A%22286ec2df-e5c4-4a7c-bcf5-9ef6ebc050df%22%7D; _pk_ses.1.e7f5=1; TS00000000076=085cfe028fab2800b690d54478855c3f317c6cb7006f8c69d7cce26907eee06642f4ed7a935bed3eb942284e7ce0095608017423d009d00034ab244f5818c270d9a1a30d27137e6ef3642237f3b6f34fa26d91e69127022370e6839901ece6091966856fdfce93895aefcc04ad72585b753f01433e49ed2929e63438043b55fd07d5534d305f9ae0b7825c88abcb05f8a5de854b1fd9d7719f3b73e2591a42e2c1757f86d3488bae14dc3330c2ebfd03d3698f0cec9e6f85c5814caf04cfd5ab9d55aaa82fe851198b8204e0a4fedd4abc4d63e77f9cc71694528c4e9fbc6fbe01a0387b431d069d10751c0399b94a7ff2b0aea505ac74dddfafb7b5ac97f85708539367209a8808; TSPD_101_DID=085cfe028fab2800b690d54478855c3f317c6cb7006f8c69d7cce26907eee06642f4ed7a935bed3eb942284e7ce0095608017423d00638006bfaec0baf71514d96b518f3588869a21fc93e83f7d824c3b2701a9fd70acd22379d9a9472bda5c5fc7598cd718c9a555c8c554e0e46fc31; TSPD_101=085cfe028fab28004d2cce8da809324ea7a12fee7d695e020836dde24d72fccd6144a00d60d0dad3d57931fb5e9d6cb608fb7d53d1051800e0d5ed6486d97188b01ef615408c8b0ea4bf4de578ff918c; BOL_LB=!KDUBOnwsaku9E7WNqCTKvztmDanZaxbAN1syYeWznyePp3M90EMFwoMk0h3l3cscqThpmf8+27XZuJ0=; TS6e9892c6029=085cfe028fab28000b1be001b667a5fa9ae3b566a6e425d80d5ac72b48c8a22d975e033b463c9ca062a67cef2240fa1c; TS6aeb2efb027=085cfe028fab2000223968bc41cd4a59da2b4fdcf3ac4264550a4400be7f576404bbb5e11490b362081bfa6e4511300056c8475402d1f9ef2e0242fd319fb610f5c02bd7af25fce9b2b900898ee37d86fe4acb84bc4dc060dac2ee2762026fd1; TS6e9892c6077=085cfe028fab2800d4ef9400444b4cad9c2ee93adcdb228c6573fa3c858c3241d2b40d1dad8f4ec49a8c44965791fd350856a9822917200044b14ea9d4c5275ca2d572d13fb32ecabcce1d81d24b16f5150287c312109915
+host:poit.bolagsverket.se
+referer:https://poit.bolagsverket.se/poit-app/kungorelse/K607277-24
+sec-ch-ua:"Chromium";v="128", "Not;A=Brand";v="24", "Google Chrome";v="128"
+sec-ch-ua-mobile:?0
+sec-ch-ua-platform:"Windows"
+sec-fetch-dest:empty
+sec-fetch-mode:cors
+sec-fetch-site:same-origin
+user-agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+x-security-request:required
+
+//successful Hamtakungorelse Response Header
+
+connection:Keep-Alive
+content-type:application/json; charset=UTF-8
+date:Thu, 19 Sep 2024 21:55:13 GMT
+keep-alive:timeout=15, max=99
+server:Apache
+set-cookie:BOL_LB=!3QZPyM9DGg4i8/uNqCTKvztmDanZayZhUzZCR00/IztOixuKG0H+Mf1EFH/zLEIciZQ6FSgZH5E4meM=; path=/; Httponly; Secure
+set-cookie:TS6e9892c6029=085cfe028fab280065248663f610699c7d475032457d9951fa4c93e05df4ed4826a5839b604f9212c89100e4023a2c2a; Max-Age=30; Path=/
+set-cookie:TS6aeb2efb027=085cfe028fab200009ceafd461ddcbefd9372f71243b45d01b167c6234a4d615c34a6d3d9d62cb100853b0d9d3113000788fc28cdd313082b6dc0fac727b3bcf4a0f3ad2eccaded8e853f535eb46aa03c1ed5919a9f9d56fd3c8b9f597b3ce2e; Path=/
+strict-transport-security:max-age=31536000
+transfer-encoding:chunked
+
+//successful Hamtakungorelse Request Header
+accept:application/json, text/plain, */*
+accept-encoding:gzip, deflate, br, zstd
+accept-language:en-US,en;q=0.9
+connection:keep-alive
+cookie:_pk_id.1.e7f5=4459834d98728293.1726706485.; cookiefirst-consent=%7B%22necessary%22%3Atrue%2C%22performance%22%3Afalse%2C%22functional%22%3Afalse%2C%22advertising%22%3Afalse%2C%22timestamp%22%3A1726706511%2C%22type%22%3A%22category%22%2C%22version%22%3A%22286ec2df-e5c4-4a7c-bcf5-9ef6ebc050df%22%7D; _pk_ses.1.e7f5=1; TS00000000076=085cfe028fab2800b690d54478855c3f317c6cb7006f8c69d7cce26907eee06642f4ed7a935bed3eb942284e7ce0095608017423d009d00034ab244f5818c270d9a1a30d27137e6ef3642237f3b6f34fa26d91e69127022370e6839901ece6091966856fdfce93895aefcc04ad72585b753f01433e49ed2929e63438043b55fd07d5534d305f9ae0b7825c88abcb05f8a5de854b1fd9d7719f3b73e2591a42e2c1757f86d3488bae14dc3330c2ebfd03d3698f0cec9e6f85c5814caf04cfd5ab9d55aaa82fe851198b8204e0a4fedd4abc4d63e77f9cc71694528c4e9fbc6fbe01a0387b431d069d10751c0399b94a7ff2b0aea505ac74dddfafb7b5ac97f85708539367209a8808; TSPD_101_DID=085cfe028fab2800b690d54478855c3f317c6cb7006f8c69d7cce26907eee06642f4ed7a935bed3eb942284e7ce0095608017423d00638006bfaec0baf71514d96b518f3588869a21fc93e83f7d824c3b2701a9fd70acd22379d9a9472bda5c5fc7598cd718c9a555c8c554e0e46fc31; TSPD_101=085cfe028fab28004d2cce8da809324ea7a12fee7d695e020836dde24d72fccd6144a00d60d0dad3d57931fb5e9d6cb608fb7d53d1051800e0d5ed6486d97188b01ef615408c8b0ea4bf4de578ff918c; TS6e9892c6077=085cfe028fab2800d4ef9400444b4cad9c2ee93adcdb228c6573fa3c858c3241d2b40d1dad8f4ec49a8c44965791fd350856a9822917200044b14ea9d4c5275ca2d572d13fb32ecabcce1d81d24b16f5150287c312109915; BOL_LB=!0LYrk8VDLTol5jeNqCTKvztmDanZa8bRKMih9xHLeZFi6i8Ye9sRYqC4Wa+S2LBlGD1A6vfg6f2SJN4=; TS6e9892c6029=085cfe028fab280044ef5e5da8a8597dac6186756bb398e480cdce2839e00fbe0920d0683f8e3ecf314cccda3daf95ad; TS6aeb2efb027=085cfe028fab20006621c0d7d629793c3acf8c7c61410c2a28fed2997b6821112b6f595573089e2a084f20f3d5113000a63e89161410abf7b6dc0fac727b3bcf4a0f3ad2eccaded8e853f535eb46aa03c1ed5919a9f9d56fd3c8b9f597b3ce2e
+host:poit.bolagsverket.se
+referer:https://poit.bolagsverket.se/poit-app/kungorelse/K607277-24
+sec-ch-ua:"Chromium";v="128", "Not;A=Brand";v="24", "Google Chrome";v="128"
+sec-ch-ua-mobile:?0
+sec-ch-ua-platform:"Windows"
+sec-fetch-dest:empty
+sec-fetch-mode:cors
+sec-fetch-site:same-origin
+user-agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+x-security-request:required
